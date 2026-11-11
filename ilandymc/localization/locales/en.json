@@ -1,0 +1,39 @@
+{
+  "language": {
+    "title": "SELECT LANGUAGE",
+    "en": "English - Английский",
+    "ru": "Русский - Russian",
+    "hint": "Use arrow keys for navigation",
+    "hint_ru": "Используйте стрелочки для навигации"
+  },
+  "menu": {
+    "title": "MAIN MENU",
+    "install": "Install Minecraft Server",
+    "manage": "Manage Existing Servers",
+    "info": "Server Information",
+    "backup": "Backup Manager",
+    "update": "Update Manager",
+    "mods": "Plugin & Mod Manager",
+    "system": "System Information",
+    "settings": "Settings",
+    "uninstall": "Uninstall",
+    "exit": "Exit"
+  },
+  "doctor": {
+    "title": "System diagnostics",
+    "os": "Operating system",
+    "arch": "Architecture",
+    "cpu": "CPU",
+    "cores": "Physical/logical cores",
+    "ram": "RAM total/available",
+    "disk": "Free disk",
+    "systemd": "systemd available",
+    "package": "Package manager"
+  },
+  "msg": {
+    "none": "No registered servers.",
+    "unsupported": "Unsupported distribution; package operations are disabled.",
+    "notfound": "Server not found: {name}",
+    "dry": "Dry run: no changes applied."
+  }
+}
